@@ -1,7 +1,7 @@
 {
   "name": "vue-detail-list",
   "description": "卡片式显示内容，点击详情可展开更多",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "author": "wang-chong",
   "license": "MIT",
   "private": false,
